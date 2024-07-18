@@ -11,7 +11,7 @@ a fully functioning Google Books API search engine built with a RESTful API, Gra
 
 ## Contributing
  
-[Zavier Zackson](https://github.com/zjack23)
+[Zavier Jackson](https://github.com/zjack23)
 
 ## Questions
 
